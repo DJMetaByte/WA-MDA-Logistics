@@ -6,10 +6,15 @@ Live Action Role Playing (or LARP) is an activity where campers get to use foam 
 ## Game Modes
 
 [Wild Animal Hunt](modes.md/#wild-animal-hunt): A campers v.s. counselors where the counselors are un-armed.
+
 [Free for All](modes.md/#free-for-all): Free for all where it's every combatant for themselves
+
 [Cabin Contest](modes.md/#cabin-contest): 2 teams of cabins facing off against eachother
+
 [Royal Rivalry](modes.md/#royal-rivalry): The teams now have a monarch they must protect
+
 [Age of Magic](modes.md/#age-of-magic): The teams now have magical powers
+
 [Flag Face-Off](modes.md/#flag-face-off): The teams now have a flag they must protect
 
 ## Rules
