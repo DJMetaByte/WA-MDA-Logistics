@@ -55,7 +55,7 @@ BEGIN
 
 
 ## Flag Face-Off
-The Wheel of Time turns, and Ages come and pass. After eons of battle, the empire of <A> and <B> have decided to have one last battle to determine which empire will rule in the final age. Each empire has a flag that represents their might, and must defend it with all their strength. If an enemy combatant takes your empires flag and brings it back to their stronghold they win.
+The Wheel of Time turns, and Ages come and pass. After eons of battle, the empire of <A> and <B> have decided to have one last battle to determine which empire will rule in the final age. Each empire has a flag that represents their might, and must defend it with all their strength. If an enemy CAMPER takes your empires flag and brings it back to their stronghold they win. Counselors are not allowed to capture the flag. 
 
 EMPIRE OF A CAN I HEAR YOUR BATTLE CRIES <br>
 EMPIRE OF B CAN I HEAR YOUR BATTLE CRIES <br>
