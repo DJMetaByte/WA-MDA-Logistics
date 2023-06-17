@@ -1,3 +1,5 @@
+< [Back to main page](../../README.md)
+
 # Live Action Role Playing
 Live Action Role Playing (or LARP) is an activity where campers get to use foam weaponry to battle it out in the field of combat. It's one of the most high energy and fun activities of the week.
 
