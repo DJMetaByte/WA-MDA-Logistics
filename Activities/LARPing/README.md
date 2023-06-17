@@ -23,7 +23,7 @@ Live Action Role Playing (or LARP) is an activity where campers get to use foam 
 The number one rule is safety. Every camper, and counselor, will always be moving at a safe speed where they are in full control.
 
 ### 2) Listen to the Battlemasters
-If Battlemaster Devin, Battlemaster Vishesh or Battlemaster Booth give a command, please follow it. If Supreme Battle Overlord Megan or Supreme Battle Overlord Sarah give a command, please follow those as well. If you hear a Battlemaster yell "STOP", stop all combat and repeat back to us "STOP".
+If Battlemaster Devin, Battlemaster Vishesh or Battlemaster Booth give a command, please follow it. If Supreme Battle Overlord Megan or Supreme Battle Overlord Sarah give a command, please follow those as well. If we think you're purposefully breaking any rules a Battlemaster will ask you to sit out. If you hear a Battlemaster yell "STOP", stop all combat and repeat back to us "STOP".
 
 - Practice this at least once
 
