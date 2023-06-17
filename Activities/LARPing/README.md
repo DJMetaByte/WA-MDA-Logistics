@@ -55,10 +55,12 @@ Campers, if you want to participate but you do not wish to use a weapon directly
 
 ### 7) Mages
 *When they are introduced*
+
 If you want, you may opt to be a mage. Mages are able to use spells and staffs, but not any weapons or sheilds. These dodgeballs are spells. Mages may block attacks with their spells. If you are hit in the torso with a mages spell, you may choose a limb to lose instead of being slain outright. Being hit in the head with a ranged weapon counts as a torso hit, but please do not purposely aim for the head. If we believe you are purposely aiming for the head, we will give you a warning.
 
 ### 8) Healers
 *When they are introduced*
+
 If you want, you may opt to be a healer. Healers can use staffs and mystical poems, but not weapons are sheilds. In order to use their powers, a healer must recite the entire poem from start to finish. Once they complete the poem, they may pick 3 combatants within arm’s reach to heal. When healed you regain the use of a limb that you had lost in combat before. Healing cannot bring back a combatant who has been slain.
 
 - Note for us: We might ask campers early in the week to make some mystical poems. Poems must be at least 60 syllables long.
