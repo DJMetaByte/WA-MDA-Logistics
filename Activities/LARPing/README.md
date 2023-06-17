@@ -3,6 +3,15 @@
 # Live Action Role Playing
 Live Action Role Playing (or LARP) is an activity where campers get to use foam weaponry to battle it out in the field of combat. It's one of the most high energy and fun activities of the week.
 
+## Game Modes
+
+[Wild Animal Hunt](modes.md/#wild-animal-hunt): A campers v.s. counselors where the counselors are un-armed.
+[Free for All](modes.md/#free-for-all): Free for all where it's every combatant for themselves
+[Cabin Contest](modes.md/#cabin-contest): 2 teams of cabins facing off against eachother
+[Royal Rivalry](modes.md/#royal-rivalry): The teams now have a monarch they must protect
+[Age of Magic](modes.md/#age-of-magic): The teams now have magical powers
+[Flag Face-Off](modes.md/#flag-face-off): The teams now have a flag they must protect
+
 ## Rules
 
 ### 1) Safety First
@@ -30,14 +39,21 @@ If you are hit in the leg, that results in the loss of that leg. You may no long
 
 If you lose 2 limbs, so either both legs, both arms, or a leg and an arm, you are slain. 
 
-### 4) Shields and Mage Staffs
-Shields and Mage staves can only be use for defense. Do not push or hit another combatant with a shield or mage staff. If we see you using a mage staff or shield for offense, we will give you a warning.
+### 4) Shields and Magic Staffs
+Shields and Magic Staffs can only be use for defense. Do not push or hit another combatant with a shield or mage staff. If we see you trying to use a mage staff or shield for offense, we will give you a warning.
 
 ### 5) Valid Weapons
 All weapons must past inspection by Battlemaster Booth before being able to be used in combat. If your weapon doesn't pass Booth's inspection, you will be asked to use a substitute weapon for combat.
 
-### 6) Spells (for when they are introduced)
-These dodgeballs are spells. Spell casters may block attacks with their spells. If you are hit in the torso, you may choose a limb to lose. Being hit in the head with a ranged weapon counts as a torso hit, but please do not purposely aim for the head. If we believe you are purposely aiming for the head, we will give you a warning.
+### 6) Summoners
+Campers, if you want to participate but you do not wish to use a weapon directly you may choose to be a summoner. Summoners may designate a counselor from their cabin to be their summoned minion to do combat in their stead. If you are a summoner, you are immune to attacks, however if your summoned minion is slain, you can no longer fight. Minons must be within 2 to 3 steps of their summoners at all times and must listen to combat related orders of their summoner during battle.
 
-### 7) Healers (for when they are introduced)
-Healers can use Mage Staffs and magical poems. In order to heal someone, the healer must recite the entire poem from start to finish. Once they complete the poem, they may pick 3 combatants within arm’s reach to heal. When healed you regain the use of a limb that you had lost in combat before. Healing cannot bring back a combatant who has been slain.
+### 7) Mages
+*When they are introduced*
+If you want, you may opt to be a mage. Mages are able to use spells and staffs, but not any weapons or sheilds. These dodgeballs are spells. Mages may block attacks with their spells. If you are hit in the torso with a mages spell, you may choose a limb to lose instead of being slain outright. Being hit in the head with a ranged weapon counts as a torso hit, but please do not purposely aim for the head. If we believe you are purposely aiming for the head, we will give you a warning.
+
+### 8) Healers
+*When they are introduced*
+If you want, you may opt to be a healer. Healers can use staffs and mystical poems, but not weapons are sheilds. In order to use their powers, a healer must recite the entire poem from start to finish. Once they complete the poem, they may pick 3 combatants within arm’s reach to heal. When healed you regain the use of a limb that you had lost in combat before. Healing cannot bring back a combatant who has been slain.
+
+- Note for us: We might ask campers early in the week to make some mystical poems. Poems must be at least 60 syllables long.
