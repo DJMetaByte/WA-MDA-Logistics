@@ -4,17 +4,18 @@
 There are several game modes we can play at MDA camp, which ones and how many may vary from year to year.
 
 ## Wild Animal Hunt
-We begin the wargames at the dawn of civilization. Campers, you are hunters looking to find wild game for your village tonight. Counselor, you are un-armed wild animals roaming the wilderness. The game ends when all the animals have been slain and the campers have enough food for their village.
+We begin the wargames at the dawn of civilization. Campers, you are hunters looking to find wild game for your village tonight. Counselors, you are un-armed wild animals roaming the wilderness. The game ends when all the animals have been slain and the campers have enough food for their village.
 
 CAMPERS CAN I HEAR YOU BATTLE CRIES? <br>
-COUNSELORS... Good luck. <br>
+COUNSELORS... CAN I HEAR YOUR MONSTEROUS ROARS? <br>
 BEGIN.
 
 ## Free for All
 The Wheel of Time turns, and Ages come and pass. And with it, the wilderness has become more dangerous. Counselors, you are now bandits are able to arm yourselves. In this next battle there are no alliances, take no prisoners and trust no one. This battle is a Free for All Fray where only the last one standing wins. 
 
 COMBATANTS CAN I HEAR YOUR BATTLE CRIES? <br>
-BEGIN
+You have 30 seconds to get into position! <br>
+3 2 1 BEGIN
 
 ## Cabin Contest
 The Wheel of Time turns, and Ages come and pass. And with it civilization has advanced. Now people have begun to gather into groups, and work together as a team. Some grudges from the free for all have been forgotten, and yesterday’s enemies are todays allies. But some hostility remains, and our camp is split into 2 competing sides. 
@@ -36,23 +37,6 @@ The royals are not trained in combat and will not sink so low as to wield a weap
 KINGDOM OF A CAN I HEAR YOUR BATTLE CRIES <br>
 KINGDOM OF B CAN I HEAR YOUR BATTLE CRIES <br>
 BEGIN
-
-## Age of Magic
-The Wheel of Time turns, and Ages come and pass. Both the kingdom of <A> and <B> are now long-lost memories. But the power of their royal bloodlines has not faded, and that power ushered in an Age of Magic. On the ashes of the kingdoms, empires rose and arcane and divine magic became an everyday part of the empires.
-
-Combatants, you may now choose to be mages or healers. 
-
-[Mages](README.md/#7-mages) <br>
-[Healers](README.md/#8-healers)
-
-I recommend that each team have a handful of mages and healers. They can be excellent additions to your team, but because they cannot use melee weapons, you don't want to go overboard. Make sure to keep some number of knights on your team as well.
-
-(After a bit of setup)
-
-EMPIRE OF A CAN I HEAR YOUR BATTLE CRIES <br>
-EMPIRE OF B CAN I HEAR YOUR BATTLE CRIES <br>
-BEGIN
-
 
 ## Flag Face-Off
 The Wheel of Time turns, and Ages come and pass. After eons of battle, the empire of <A> and <B> have decided to have one last battle to determine which empire will rule in the final age. Each empire has a flag that represents their might, and must defend it with all their strength. If an enemy CAMPER takes your empires flag and brings it back to their stronghold they win. Counselors are not allowed to capture the flag. 
