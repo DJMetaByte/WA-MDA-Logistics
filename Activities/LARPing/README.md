@@ -23,12 +23,12 @@ Live Action Role Playing (or LARP) is an activity where campers get to use foam 
 The number one rule is safety. Every camper, and counselor, will always be moving at a safe speed where they are in full control.
 
 ### 2) Listen to the Battlemasters
-If Battlemaster Devin, Battlemaster Vishesh or Battlemaster Booth give a command, please follow it. If Supreme Battle Overlord Megan or Supreme Battle Overlord Sarah give a command, please follow those as well. If we think you're purposefully breaking any rules a Battlemaster will ask you to sit out. If you hear a Battlemaster yell "STOP", stop all combat and repeat back to us "STOP".
+If Battlemaster Devin or Battlemaster Booth give a command, please follow it. If Supreme Battle Overlord Megan or Supreme Battle Overlord Kearstin give a command, please follow those as well. If we think you're purposefully breaking any rules a Battlemaster will ask you to sit out. If you hear a Battlemaster yell "STOP", stop all combat and repeat back to us "STOP".
 
-- Practice this at least once
+- Practice this x3 times
 
 ### 3) Hit Locations
-For melee weapons, valid hit locations are the Torso, Arms, Hands and Legs. Head, directly below the belt and feet are off limits. If we see you hitting any off limits area with a melee weapon a battle master will give you a warning. If you get a second warning, a Battlemaster may ask you to sit out of combat until at least the next round, maybe longer. 
+Walid hit locations are the Torso, Arms, Hands and Legs. Head, directly below the belt and feet are off limits. If we see you hitting any off limits area with a melee weapon a battle master will give you a warning. If you get a second warning, a Battlemaster may ask you to sit out of combat until at least the next round, maybe longer. 
 
 #### Torso
 If you are hit in the Torso you are slain. Drop all your weapons, make your best deathcry, and fall to the ground or stop your wheelchair. After a moment you may slowly, holding your weapon in both hands in a non-threatening manner, move to the edge of the battlefield if you wish.
@@ -44,22 +44,14 @@ If you are hit in the leg, that results in the loss of that leg. You may no long
 
 If you lose 2 limbs, so either both legs, both arms, or a leg and an arm, you are slain. 
 
-### 4) Shields and Magic Staffs
-Shields and Magic Staffs can only be use for defense. Do not push or hit another combatant with a shield or mage staff. If we see you trying to use a mage staff or shield for offense, we will give you a warning.
+### 4) Shields
+Shields can only be use for defense. Do not push or hit another combatant with a shield. If we see you trying to use a shield for offense, we will give you a warning.
 
 ### 5) Valid Weapons
 All weapons must past inspection by Battlemaster Booth before being able to be used in combat. If your weapon doesn't pass Booth's inspection, you will be asked to use a substitute weapon for combat.
 
 ### 6) Summoners
 Campers, if you want to participate but you do not wish to use a weapon directly you may choose to be a summoner. Summoners may designate a counselor from their cabin to be their summoned minion to do combat in their stead. If you are a summoner, you are immune to attacks, however if your summoned minion is slain, you can no longer fight. Minons must be within 2 to 3 steps of their summoners at all times and must listen to combat related orders of their summoner during battle.
-
-### 7) Mages
-*When they are introduced*
-
-If you want, you may opt to be a mage. Mages are able to use spells and staffs, but not any weapons or sheilds. These dodgeballs are spells. Mages may block attacks with their spells. If you are hit in the torso with a mages spell, you may choose a limb to lose instead of being slain outright. Being hit in the head with a ranged weapon counts as a torso hit, but please do not purposely aim for the head. If we believe you are purposely aiming for the head, we will give you a warning.
-
-### 8) Healers
-*When they are introduced*
 
 If you want, you may opt to be a healer. Healers can use staffs and mystical poems, but not weapons are sheilds. In order to use their powers, a healer must recite the entire poem from start to finish. Once they complete the poem, they may pick 3 combatants within arm’s reach to heal. When healed you regain the use of a limb that you had lost in combat before. Healing cannot bring back a combatant who has been slain.
 
