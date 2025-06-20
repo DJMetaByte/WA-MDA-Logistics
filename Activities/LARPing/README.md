@@ -28,7 +28,7 @@ If Battlemaster Devin or Battlemaster Booth give a command, please follow it. If
 - Practice this x3 times
 
 ### 3) Hit Locations
-Walid hit locations are the Torso, Arms, Hands and Legs. Head, directly below the belt and feet are off limits. If we see you hitting any off limits area with a melee weapon a battle master will give you a warning. If you get a second warning, a Battlemaster may ask you to sit out of combat until at least the next round, maybe longer. 
+Valid hit locations are the Torso, Arms, Hands and Legs. Head, directly below the belt and feet are off limits. If we see you hitting any off limits area with a melee weapon a battle master will give you a warning. If you get a second warning, a Battlemaster may ask you to sit out of combat until at least the next round, maybe longer. 
 
 #### Torso
 If you are hit in the Torso you are slain. Drop all your weapons, make your best deathcry, and fall to the ground or stop your wheelchair. After a moment you may slowly, holding your weapon in both hands in a non-threatening manner, move to the edge of the battlefield if you wish.
